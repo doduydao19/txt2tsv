@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Aug  3 15:09:25 2019
-
-@author: kim.montalibet
-"""
 
 from Process.WebannoAnnotationTools.classes.text_to_tsv_class import unlist_df
 import pandas as pd
