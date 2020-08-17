@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Aug  5 14:24:20 2019
-
-@author: kim.montalibet
-"""
 
 
 mapping_features = {'BT_webanno.custom.Evaluation': "relation_evaluation_id", 
