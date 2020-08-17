@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jun  3 17:59:18 2019
-
-@author: kim.montalibet
-"""
 
 import pandas as pd
 from typing import List
