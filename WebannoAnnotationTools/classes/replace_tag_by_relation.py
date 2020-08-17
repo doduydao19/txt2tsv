@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Aug  4 21:02:23 2019
-
-@author: kim.montalibet
-"""
 
 import re
 
