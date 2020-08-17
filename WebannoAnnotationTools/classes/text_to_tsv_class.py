@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jul  1 17:19:29 2019
-@author: kim.montalibet
-"""
 
 import csv
 import pandas as pd
