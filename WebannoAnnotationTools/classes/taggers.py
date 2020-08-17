@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jul  1 17:39:42 2019
 
-@author: kim.montalibet
-"""
 import re
 from typing import Tuple, Dict, List
 
