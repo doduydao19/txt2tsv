@@ -1,15 +1,7 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Aug  5 17:48:46 2019
-
-@author: kim.montalibet
-"""
 
 # if valeur (target has no link with unite ou unite expertise)
 # add link with the next token using shift +1 
-
-
-
 
 
 def add_link(row, var_unite, var_valeur, var_relation): 
